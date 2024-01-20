@@ -1,5 +1,13 @@
 {
-  "BASE_URL": "https://shz.al",
-  "REPO": "https://github.com/SharzyL/pastebin-worker",
-  "FAVICON": "https://sharzy.in/favicon-32x32.png"
+  "BASE_URL": "https://paste.jendermine.workers.dev",
+  "REPO": "https://github.com/jendermine/pastebin-worker",
+  "FAVICON": "https://raw.githubusercontent.com/jendermine/jendermine.github.io/main/photo_2024-01-18_18-25-22.png",
+  "basicAuth": {
+    "enabled": true,
+    "passwd": {
+      "ok": "oh",
+      "oh": "ok"
+    }
+  }
 }
+

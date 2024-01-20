@@ -1,5 +1,7 @@
 # Pastebin-worker
 
+Kanged entirely from: https://github.com/SharzyL/pastebin-worker
+
 This is a pastebin that can be deployed on Cloudflare workers. Try it on [shz.al](https://shz.al). 
 
 **Philosophy**: effortless deployment, friendly CLI usage, rich functionality. 
